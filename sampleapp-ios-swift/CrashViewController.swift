@@ -5,7 +5,7 @@ import AppCenterCrashes
 class CrashViewController: UIViewController {
 
     @IBOutlet weak var fatalErrorButton: UIButton!
-
+//Check if loaded
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
