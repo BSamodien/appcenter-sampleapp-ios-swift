@@ -506,8 +506,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ensobyte.sampleios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "224b8bed-c3f5-439d-a624-989818c17f6d";
-				PROVISIONING_PROFILE_SPECIFIER = "Sample App Development Profile";
+				PROVISIONING_PROFILE = "739f3421-e821-4d05-890d-b1ecaea50718";
+				PROVISIONING_PROFILE_SPECIFIER = "MySampleAPP Provisioning Profile";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
