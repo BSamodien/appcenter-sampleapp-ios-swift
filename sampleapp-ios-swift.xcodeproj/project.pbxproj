@@ -195,6 +195,9 @@
 						DevelopmentTeam = 6WPHX93U2U;
 						ProvisioningStyle = Manual;
 						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
 							com.apple.Push = {
 								enabled = 1;
 							};
